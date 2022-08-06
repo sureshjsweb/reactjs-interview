@@ -1,0 +1,18 @@
+[
+    {
+        "fname": "Sureshkumar",
+        "lname": "S",
+        "dob": "17/10/1984",
+        "designation": "Senior Software Engineer",
+        "photo": "",
+        "experience": "8yrs"
+    },
+    {
+        "fname": "Ramesh",
+        "lname": "R",
+        "dob": "14/04/1978",
+        "designation": "Senior Software Engineer",
+        "photo": "",
+        "experience": "8yrs"
+    }
+]
